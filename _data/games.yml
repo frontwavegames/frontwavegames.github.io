@@ -1,0 +1,20 @@
+home:
+  - woodbrick
+  - mergenumber
+  - wordsearch
+list:
+  - id: ballmaze
+    name: Ball Maze Rotate 3D
+    banner: "/apps/banners/ballmaze.jpeg"
+  - id: woodbrick
+    name: Wood Brick Classic
+    banner: "/apps/banners/woodbrick.png"
+  - id: mergenumber
+    name: Merge Number New
+    banner: "/apps/banners/mergenumber.png"
+  - id: wordsearch
+    name: Word Search Master
+    banner: "/apps/banners/wordsearch.png"
+  - id: clanmonster
+    name: Clan vs Monsters
+    banner: "/apps/banners/clanmonster.png"

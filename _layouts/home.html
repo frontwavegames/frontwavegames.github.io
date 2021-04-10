@@ -10,8 +10,7 @@ layout: default
   {{ content }}
   
   <div class="post-content e-content" itemprop="articleBody">
-    <p>We're Front Wave Games, a young independent game studio.</p>
-    <p>We focus on making simple, addictive games that everyone can play.</p>
+    <p>Welcome to Front Wave Games, We make simple, addictive games that everyone can play.</p>
   </div>
 
   {%- if site.posts.size > 0 -%}
@@ -34,5 +33,17 @@ layout: default
   
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
-  
+    
+  {%- if site.data.games.list.size > 0 -%}
+
+  <ul class="post-list" style="margin: auto; text-align: center;">
+      {%- for game in site.data.games.list -%}
+        {%- if site.data.games.home contains game.id -%}
+          {% include game.html content=game %}
+        {%- endif -%}
+      {%- endfor -%}
+  </ul>
+
+  {%- endif -%}
+
 </div>

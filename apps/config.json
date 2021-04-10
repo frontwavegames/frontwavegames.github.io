@@ -10,7 +10,7 @@
             "promoteIcon": false,
             "sortIndex": 10,
             "status": "",
-	    "bannerStyle": 0
+	        "bannerStyle": 0
         },
         {
             "appStoreUrl": "",
@@ -22,7 +22,7 @@
             "promoteIcon": true,
             "sortIndex": 0,
             "status": "Hot!",
-	    "bannerStyle": 2
+	        "bannerStyle": 2
         },
         {
             "appStoreUrl": "",
@@ -34,7 +34,7 @@
             "promoteIcon": true,
             "sortIndex": 0,
             "status": "New!",
-	    "bannerStyle": 1
+	        "bannerStyle": 1
         },
         {
             "appStoreUrl": "",
@@ -46,7 +46,7 @@
             "promoteIcon": true,
             "sortIndex": 0,
             "status": "New!",
-	    "bannerStyle": 1
+	        "bannerStyle": 1
         },
         {
             "appStoreUrl": "",
@@ -58,7 +58,7 @@
             "promoteIcon": true,
             "sortIndex": 0,
             "status": "New!",
-	    "bannerStyle": 1
+	        "bannerStyle": 1
         }
     ],
     "facebookPage": "https://www.facebook.com/frontwavegames",

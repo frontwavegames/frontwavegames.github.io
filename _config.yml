@@ -37,7 +37,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - games.markdown
+  - games.html
   - about.markdown
 
 # Exclude from processing.
