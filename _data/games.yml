@@ -1,6 +1,6 @@
 home:
+  - ballmaze
   - woodbrick
-  - mergenumber
   - wordsearch
 list:
   - id: ballmaze
