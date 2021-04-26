@@ -27,6 +27,18 @@
         {
             "appStoreUrl": "",
             "description": "",
+            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.stringweaving",
+            "iconUrl": "https://www.frontwavegames.com/apps/icons/stringweaving.png",
+            "name": "String Weaving",
+            "packageId": "com.frontwave.stringweaving",
+            "promoteIcon": true,
+            "sortIndex": 0,
+            "status": "New!",
+	        "bannerStyle": 1
+        },
+        {
+            "appStoreUrl": "",
+            "description": "",
             "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.mergenumber",
             "iconUrl": "https://www.frontwavegames.com/apps/icons/mergenumber.png",
             "name": "Merge Number New",

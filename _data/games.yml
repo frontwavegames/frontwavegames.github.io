@@ -15,6 +15,9 @@ list:
   - id: wordsearch
     name: Word Search Master
     banner: "/apps/banners/wordsearch.png"
+  - id: stringweaving
+    name: String Weaving
+    banner: "/apps/banners/stringweaving.png"
   - id: clanmonster
     name: Clan vs Monsters
     banner: "/apps/banners/clanmonster.png"
