@@ -55,20 +55,8 @@
             "iconUrl": "https://www.frontwavegames.com/apps/icons/ballmaze.png",
             "name": "Ball Maze Rotate 3D",
             "packageId": "com.frontwave.ballmaze",
-            "promoteIcon": false,
+            "promoteIcon": true,
             "sortIndex": 10,
-            "status": "",
-	        "bannerStyle": 0
-        },
-        {
-            "appStoreUrl": "",
-            "description": "",
-            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.clanmonster",
-            "iconUrl": "https://www.frontwavegames.com/apps/icons/clanmonster.png",
-            "name": "Clan vs Monsters",
-            "packageId": "com.frontwave.clanmonster",
-            "promoteIcon": false,
-            "sortIndex": 0,
             "status": "",
 	        "bannerStyle": 0
         }
