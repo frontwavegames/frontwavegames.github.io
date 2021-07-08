@@ -44,7 +44,7 @@ By using our application, you consent to our privacy policy.
 
 Front Wave Games reserves the right to amend and update its Privacy Policy without notice.
 
-Amended March 2, 2021.
+Amended July 8, 2021.
 
 # Contacting us
 
