@@ -1,7 +1,7 @@
 home:
+  - stackshapes
   - ballmaze
   - woodbrick
-  - wordsearch
 list:
   - id: stackshapes
     name: Stack Shapes
