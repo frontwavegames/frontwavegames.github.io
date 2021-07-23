@@ -3,6 +3,9 @@ home:
   - woodbrick
   - wordsearch
 list:
+  - id: stackshapes
+    name: Stack Shapes
+    banner: "/apps/banners/stackshapes.png"
   - id: ballmaze
     name: Ball Maze Rotate 3D
     banner: "/apps/banners/ballmaze.jpeg"

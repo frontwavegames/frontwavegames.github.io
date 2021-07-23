@@ -3,14 +3,14 @@
         {
             "appStoreUrl": "",
             "description": "",
-            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.wordsearch",
-            "iconUrl": "https://www.frontwavegames.com/apps/icons/wordsearch.png",
-            "name": "Word Search Master",
-            "packageId": "com.frontwave.wordsearch",
+            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.stackshapes",
+            "iconUrl": "https://www.frontwavegames.com/apps/icons/stackshapes.png",
+            "name": "Stack Shapes",
+            "packageId": "com.frontwave.stackshapes",
             "promoteIcon": true,
             "sortIndex": 0,
-            "status": "Hot!",
-	        "bannerStyle": 2
+            "status": "New!",
+	        "bannerStyle": 1
         },
         {
             "appStoreUrl": "",
@@ -23,6 +23,18 @@
             "sortIndex": 0,
             "status": "New!",
 	        "bannerStyle": 1
+        },
+        {
+            "appStoreUrl": "",
+            "description": "",
+            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.wordsearch",
+            "iconUrl": "https://www.frontwavegames.com/apps/icons/wordsearch.png",
+            "name": "Word Search Master",
+            "packageId": "com.frontwave.wordsearch",
+            "promoteIcon": false,
+            "sortIndex": 0,
+            "status": "Hot!",
+	        "bannerStyle": 2
         },
         {
             "appStoreUrl": "",
