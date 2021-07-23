@@ -43,7 +43,7 @@
             "iconUrl": "https://www.frontwavegames.com/apps/icons/stringweaving.png",
             "name": "String Weaving",
             "packageId": "com.frontwave.stringweaving",
-            "promoteIcon": true,
+            "promoteIcon": false,
             "sortIndex": 0,
             "status": "",
 	        "bannerStyle": 0
@@ -55,7 +55,7 @@
             "iconUrl": "https://www.frontwavegames.com/apps/icons/mergenumber.png",
             "name": "Merge Number New",
             "packageId": "com.frontwave.mergenumber",
-            "promoteIcon": true,
+            "promoteIcon": false,
             "sortIndex": 0,
             "status": "",
 	        "bannerStyle": 0
