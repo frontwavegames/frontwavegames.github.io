@@ -193,3 +193,8 @@ rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
 pubmatic.com, 160565, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
 pangleglobal.com, 9898, DIRECT
+
+
+### MoPub
+
+mopub.com, e57469b64c4d449fab18d686f9b40604, DIRECT, 74b46c0ea83967ca
