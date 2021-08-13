@@ -23,54 +23,6 @@
             "sortIndex": 0,
             "status": "New!",
 	        "bannerStyle": 1
-        },
-        {
-            "appStoreUrl": "",
-            "description": "",
-            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.wordsearch",
-            "iconUrl": "https://www.frontwavegames.com/apps/icons/wordsearch.png",
-            "name": "Word Search Master",
-            "packageId": "com.frontwave.wordsearch",
-            "promoteIcon": false,
-            "sortIndex": 0,
-            "status": "Hot!",
-	        "bannerStyle": 2
-        },
-        {
-            "appStoreUrl": "",
-            "description": "",
-            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.stringweaving",
-            "iconUrl": "https://www.frontwavegames.com/apps/icons/stringweaving.png",
-            "name": "String Weaving",
-            "packageId": "com.frontwave.stringweaving",
-            "promoteIcon": false,
-            "sortIndex": 0,
-            "status": "",
-	        "bannerStyle": 0
-        },
-        {
-            "appStoreUrl": "",
-            "description": "",
-            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.mergenumber",
-            "iconUrl": "https://www.frontwavegames.com/apps/icons/mergenumber.png",
-            "name": "Merge Number New",
-            "packageId": "com.frontwave.mergenumber",
-            "promoteIcon": false,
-            "sortIndex": 0,
-            "status": "",
-	        "bannerStyle": 0
-        },
-        {
-            "appStoreUrl": "",
-            "description": "",
-            "gplayUrl": "https://play.google.com/store/apps/details?id=com.frontwave.ballmaze",
-            "iconUrl": "https://www.frontwavegames.com/apps/icons/ballmaze.png",
-            "name": "Ball Maze Rotate 3D",
-            "packageId": "com.frontwave.ballmaze",
-            "promoteIcon": true,
-            "sortIndex": 10,
-            "status": "",
-	        "bannerStyle": 0
         }
     ],
     "facebookPage": "https://www.facebook.com/frontwavegames",

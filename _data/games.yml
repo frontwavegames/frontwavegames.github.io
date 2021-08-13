@@ -1,23 +1,10 @@
 home:
   - stackshapes
-  - ballmaze
   - woodbrick
 list:
   - id: stackshapes
     name: Stack Shapes
     banner: "/apps/banners/stackshapes.png"
-  - id: ballmaze
-    name: Ball Maze Rotate 3D
-    banner: "/apps/banners/ballmaze.jpeg"
   - id: woodbrick
     name: Wood Brick Classic
     banner: "/apps/banners/woodbrick.png"
-  - id: mergenumber
-    name: Merge Number New
-    banner: "/apps/banners/mergenumber.png"
-  - id: wordsearch
-    name: Word Search Master
-    banner: "/apps/banners/wordsearch.png"
-  - id: stringweaving
-    name: String Weaving
-    banner: "/apps/banners/stringweaving.png"
