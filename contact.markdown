@@ -16,4 +16,4 @@ Xing Qiao Da Jie #1 South Building #203, Qiao Zi county, Huai Rou district, Beij
 
 # Email
 
-<a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+[{{ site.email }}](mailto:{{ site.email }})

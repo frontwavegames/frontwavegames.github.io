@@ -52,4 +52,4 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 Front Wave Games
 
-frontwavegames@gmail.com
+[{{ site.email }}](mailto:{{ site.email }})
