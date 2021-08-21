@@ -1,5 +1,7 @@
 {
-    "showMode": true, 
-    "showRank": true, 
-    "showIAP": true 
+    "dict": {
+        "showMode": true, 
+        "showRank": true, 
+        "showIAP": true 
+    }
 }
