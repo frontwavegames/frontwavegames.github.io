@@ -1,7 +1,7 @@
 {
     "dict": {
         "showMode": true, 
-        "showRank": false, 
+        "showRank": true, 
         "restoreInterstitial": true
     }
 }

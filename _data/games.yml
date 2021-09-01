@@ -1,10 +1,14 @@
 home:
-  - stackshapes
   - woodbrick
+  - tintblocks
+  - stackshapes
 list:
+  - id: woodbrick
+    name: Summer Wood Brick
+    banner: "/apps/banners/woodbrick.png"
+  - id: tintblocks
+    name: Tint Blocks
+    banner: "/apps/banners/tintblocks.png"
   - id: stackshapes
     name: Stack Shapes
     banner: "/apps/banners/stackshapes.png"
-  - id: woodbrick
-    name: Wood Brick Classic
-    banner: "/apps/banners/woodbrick.png"
