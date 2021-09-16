@@ -1,11 +1,14 @@
 home:
+  - mergenumber
   - woodbrick
   - tintblocks
-  - stackshapes
 list:
   - id: woodbrick
     name: Summer Wood Brick
     banner: "/apps/banners/woodbrick.png"
+  - id: mergenumber
+    name: Merge Number Gems
+    banner: "/apps/banners/mergenumber.png"
   - id: tintblocks
     name: Tint Blocks
     banner: "/apps/banners/tintblocks.png"
